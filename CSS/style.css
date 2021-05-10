@@ -9,6 +9,11 @@ html {
 body {
     font-family: 'Lato', sans-serif;
     background-color: whitesmoke;
+    background-image: url("../images/canstockphoto25184085.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+   
 }
 
 .paragraph {
