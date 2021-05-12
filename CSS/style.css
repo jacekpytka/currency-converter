@@ -8,7 +8,10 @@ html {
 
 body {
     font-family: 'Lato', sans-serif;
-    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
     background-image: url("../images/canstockphoto25184085.jpg");
     background-size: cover;
     background-position: center;
